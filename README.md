@@ -14,4 +14,7 @@ LoginViewController|TableViewController|WebsiteViewController|
 :-------------------------:|:-------------------------:|:---------------------:
 ![](https://raw.githubusercontent.com/Reqven/gymglishtest/master/screenshots/LoginViewController.png)|![](https://raw.githubusercontent.com/Reqven/gymglishtest/master/screenshots/TableViewController.png)|![](https://raw.githubusercontent.com/Reqven/gymglishtest/master/screenshots/WebsiteViewController.png)
 
+## Demo
+You can watch/download the demo here :  
+https://drive.google.com/open?id=1YmTE9RueMsZdd7acEN1NJg0DVdvUH7yE
 
