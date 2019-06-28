@@ -2,7 +2,7 @@
 iOS application allowing to browse Gymglish's websites using a WebView.  
 Compatible iOS 11+ due to the use of the property largeTitles property (and maybe other things).  
 
-Credentials are hardcoded in the LoginController.swift file.
+Credentials are hardcoded in the LoginViewController.swift file.
 
 | Email | Password |
 | --- | --- |
