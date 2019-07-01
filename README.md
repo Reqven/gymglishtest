@@ -10,9 +10,8 @@ Credentials are hardcoded in the LoginViewController.swift file.
 
 
 ## Screenshots
-LoginViewController|TableViewController|WebsiteViewController| 
-:-------------------------:|:-------------------------:|:---------------------:
 ![](https://raw.githubusercontent.com/Reqven/gymglishtest/master/screenshots/LoginViewController.png)|![](https://raw.githubusercontent.com/Reqven/gymglishtest/master/screenshots/TableViewController.png)|![](https://raw.githubusercontent.com/Reqven/gymglishtest/master/screenshots/WebsiteViewController.png)
+:-------------------------:|:-------------------------:|:---------------------:
 
 ## Demo
 You can watch/download the demo here :  
